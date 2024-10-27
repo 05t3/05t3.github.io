@@ -1,18 +1,29 @@
 #  The contact options.
 
+- type: LinkedIn
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "https://www.linkedin.com/in/stephen-kageche/" # Fill with your Linkedin homepage
+
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/05t3"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: "https://x.com/oste_ke"
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  url: "05t3@protonmail.com"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: hackthebox
+  icon: "fas fa-cube"
+  url: "https://www.hackthebox.eu/profile/210522"
+
+  noblank: true # open link in current tab
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
