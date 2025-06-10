@@ -3,7 +3,7 @@ title: PDF Analysis
 description: PDF Analysis
 author: oste
 date: 2023-06-25 01:09:33 +0300
-categories: [Lets Defend, Lets Defend - Medium]
+categories: [Lets Defend, Security Analyst, Medium]
 tags: [pdf, pdfid, pdf-parser, maldoc, strings, powershell, LOLBins, wmic]
 image: /assets/img/Posts/pdf-analysis.png
 #   path: assets/img/Posts/forest.png
