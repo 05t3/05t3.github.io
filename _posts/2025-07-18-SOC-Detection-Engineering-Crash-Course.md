@@ -3,7 +3,7 @@ title: SOC Detection Engineering Crash Course"
 date: 2025-07-18 01:09:33 +0300
 author: oste
 description: SOC Detection Engineering Crash Course.
-image: /assets/img/Posts/SOC Detection  Engineering  Crash Course.png
+image: /assets/img/Posts/SOCDetectionEngineeringCrashCourse.png
 categories: [Detection Engineering]
 tags:
   [CTI, Elasticsearch, Fleet, Sysmon, Atomic red, Detection Engineering, detection]
